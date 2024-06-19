@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gitika
-- 👀 I’m interested in data science.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects specialised in scitkitlearn.
+- 👀 AI/ML Enthu and aspiring data scientist
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on python projects invloving data cleaning/visualisation tasks and machine learning projects in scikitlearn.
 - 📫 How to reach me - mail me at phgtka@gmail.com
 
 <!---
