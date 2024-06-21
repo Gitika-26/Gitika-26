@@ -15,6 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="40px"/>
 </h1>
 <h1>:woman_technologist: About Me :</h1>
+
 - 👋 Hi, I’m Gitika
 - 👀 AI/ML Enthu and aspiring data scientist
 - 🌱 I’m currently learning deep learning
