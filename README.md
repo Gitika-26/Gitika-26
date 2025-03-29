@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m Gitika
 - 👀 AI/ML Enthu and aspiring data scientist
-- 🌱 Expertise in Advanced Excel & Advanced PostgresQL 
+- 🌱 Expertise in Advanced Excel & Advanced PostgreSQL 
 - 💞️ Building dashboards and cleaning data, one query at a time.
 - 📫 How to reach me - mail me at phgtka@gmail.com
 
