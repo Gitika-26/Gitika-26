@@ -26,7 +26,7 @@
 <h1> :hammer_and_wrench: Skills :</h1>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,github,mysql,vscode,notion,sklearn,windows" />
+    <img src="https://skillicons.dev/icons?i=py,git,github,mysql,vscode,notion,sklearn,windows,Excel" />
   </a>
 </p>
 
