@@ -18,8 +18,8 @@
 
 - 👋 Hi, I’m Gitika
 - 👀 AI/ML Enthu and aspiring data scientist
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on python projects invloving data cleaning/visualisation tasks and machine learning projects in scikitlearn.
+- 🌱 Expertise in Advanced Excel & Advanced PostgresQL 
+- 💞️ Building dashboards and cleaning data, one query at a time.
 - 📫 How to reach me - mail me at phgtka@gmail.com
 
 
