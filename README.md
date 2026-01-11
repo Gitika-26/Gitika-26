@@ -17,9 +17,9 @@
 <h1>:woman_technologist: About Me :</h1>
 
 - 👋 Hi, I’m Gitika
-- 👀 AI/ML Enthu and aspiring data scientist
-- 🌱 Expertise in Advanced Excel & Advanced PostgreSQL 
-- 💞️ Building dashboards and cleaning data, one query at a time.
+- 👀 I hold an experience working with computational mathematics,predictive modelling and data analysis tools.
+- 🌱 I interested in working in the field of probabilistic machine learning
+- 💞️ Solving problems using mathematics and machine learning, one problem a day. 
 - 📫 How to reach me - mail me at phgtka@gmail.com
 
 
