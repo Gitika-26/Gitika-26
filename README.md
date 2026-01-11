@@ -17,8 +17,8 @@
 <h1>:woman_technologist: About Me :</h1>
 
 - 👋 Hi, I’m Gitika
-- 👀 I hold an experience working with computational mathematics,predictive modelling and data analysis tools.
-- 🌱 I interested in working in the field of probabilistic machine learning
+- 👀 I hold an experience working with computational mathematics, predictive modelling and data analysis tools.
+- 🌱 I am interested in working in the field of probabilistic machine learning and also looking to pursue a masters in the same field.
 - 💞️ Solving problems using mathematics and machine learning, one problem a day. 
 - 📫 How to reach me - mail me at phgtka@gmail.com
 
